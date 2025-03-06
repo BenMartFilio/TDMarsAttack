@@ -60,6 +60,10 @@
 		{
 			"Name": "StudioTelemetry",
 			"Enabled": false
+		},
+		{
+			"Name": "OnlineServicesEOS",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
